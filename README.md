@@ -1,1 +1,2 @@
-# Basic-Python-for-Data-Science from Courser
+# Basic-Python-for-Data-Science \
+#from Coursera
